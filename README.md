@@ -44,9 +44,17 @@ var map = new LimitableMap();
 
 map.set("key1", "key1");
 map.get("key1");
+
+// it is new api.
+map.del('key1');
+map.remove('key1');
+
+map.size();
+map.length();
+
 ```
 
-使用的时候与普通map对象没有差别，只有两个API接口：`set`/`get`。
+使用的时候与普通map对象没有差别，API接口：`set`/`get`/`remove(del)`/`size(length)`。
 
 ## 注意
 在使用时，注意评估有效键的数量，如果设置过小，缓存的作用太小；设置过大，可能会浪费内存。设置限制值的方式如下：
