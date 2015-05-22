@@ -2,7 +2,7 @@
   "author": "VectorHo <41903645@qq.com> (https://github.com/VectorHo)",
   "name": "limitablemap-plus",
   "description": "The limitable map, for avoid memory leak issue.",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "homepage": "https://github.com/VectorHo/limitablemap",
   "repository": {
     "type": "git",
