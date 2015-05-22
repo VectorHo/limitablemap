@@ -32,7 +32,7 @@ if (!get(key)) {
 
 ## 安装
 ```
-npm install limitablemap
+npm install limitablemap-plus
 ```
 
 ## 使用方式

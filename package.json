@@ -1,12 +1,12 @@
 {
-  "author": "Jackson Tian <shyvo1987@gmail.com> (https://github.com/JacksonTian)",
-  "name": "limitablemap",
+  "author": "VectorHo <41903645@qq.com> (https://github.com/VectorHo)",
+  "name": "limitablemap-plus",
   "description": "The limitable map, for avoid memory leak issue.",
-  "version": "0.0.2",
-  "homepage": "https://github.com/JacksonTian/limitablemap",
+  "version": "0.1.2",
+  "homepage": "https://github.com/VectorHo/limitablemap",
   "repository": {
     "type": "git",
-    "url": "git://github.com/JacksonTian/limitablemap.git"
+    "url": "git://github.com/VectorHo/limitablemap.git"
   },
   "main": "limitablemap.js",
   "dependencies": {},
